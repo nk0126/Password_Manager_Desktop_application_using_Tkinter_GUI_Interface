@@ -16,6 +16,7 @@ Python 3.x installed on your system.
 Git (optional) for cloning the repository.
 
 **Setup Instructions**
+
 1) Clone the repository:
 
 git clone <repository_url>
