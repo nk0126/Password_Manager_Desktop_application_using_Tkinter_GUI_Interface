@@ -1,9 +1,10 @@
 # Password_Manager_Desktop_application_using_Tkinter_GUI_Interface
 
 
+
 This Password Manager application is built using Python and Tkinter. It provides a simple and secure way to generate strong passwords and store them along with website and email credentials.
 
-Features
+**Features**
 Password Generation: Automatically generates strong passwords with a mix of letters, numbers, and symbols.
 Data Storage: Saves website, email, and password details securely in a local text file (data.txt).
 User Interface: Intuitive GUI with entry fields for website, email, and password, and buttons for password generation and saving.
@@ -13,25 +14,22 @@ Installation
 Prerequisites
 Python 3.x installed on your system.
 Git (optional) for cloning the repository.
-Setup Instructions
-Clone the repository:
 
-bash
-Copy code
+**Setup Instructions**
+1) Clone the repository:
+
 git clone <repository_url>
-Navigate into the project directory:
 
-bash
-Copy code
+2) Navigate into the project directory:
+
 cd password-manager
-Install dependencies:
 
-bash
-Copy code
-pip install pyperclip
+3) Install dependencies:
+   pip install pyperclip
+
 
 Usage
-Generate Password: Click on "Generate Password" to create a new secure password.
-Save Password: Enter website, email, and password details, then click "Add" to securely save them.
-Confirmation: Confirm details in the popup dialog before saving to ensure correctness.
-Access Saved Passwords: Check data.txt in the project directory for stored credentials.
+**1)****Generate Password**: Click on "Generate Password" to create a new secure password.
+**2)Save Password:** Enter website, email, and password details, then click "Add" to securely save them.
+**3)Confirmation:** Confirm details in the popup dialog before saving to ensure correctness.
+**4)Access Saved Passwords:** Check data.txt in the project directory for stored credentials.
