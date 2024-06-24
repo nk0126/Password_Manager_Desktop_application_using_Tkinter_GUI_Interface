@@ -29,8 +29,9 @@ cd password-manager
    pip install pyperclip
 
 
-Usage
-**1)****Generate Password**: Click on "Generate Password" to create a new secure password.
+**Usage**
+
+1)****Generate Password**: Click on "Generate Password" to create a new secure password.
 
 **2)Save Password:** Enter website, email, and password details, then click "Add" to securely save them.
 
