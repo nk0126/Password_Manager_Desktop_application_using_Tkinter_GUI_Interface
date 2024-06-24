@@ -30,6 +30,10 @@ cd password-manager
 
 Usage
 **1)****Generate Password**: Click on "Generate Password" to create a new secure password.
+
 **2)Save Password:** Enter website, email, and password details, then click "Add" to securely save them.
+
 **3)Confirmation:** Confirm details in the popup dialog before saving to ensure correctness.
+
+
 **4)Access Saved Passwords:** Check data.txt in the project directory for stored credentials.
